@@ -1,15 +1,6 @@
 ﻿using System;
 using NAudio.Wave;
 
-
-internal class Program
-{
-    private static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
-
 namespace OnurKaroffDelay
 {
     class Program
@@ -26,4 +17,5 @@ namespace OnurKaroffDelay
         }
     }
 }
+
 
